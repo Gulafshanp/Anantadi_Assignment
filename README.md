@@ -30,7 +30,7 @@ The script provides functionalities to load an image, convert it to grayscale, c
 - Extract the object from the original image based on the generated mask.
 - Visualize the original image and the extracted object side by side.
 
-##Libraries
+## Libraries
 -opencv
 -Numpy
 -Sort
